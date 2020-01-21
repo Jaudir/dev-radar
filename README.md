@@ -11,14 +11,12 @@ aplicativo de celular via expo.
 
 Abaixo temos o visual final da aplicação.
 
-<div style="display:flex">
-  <div style="flex:73%;padding: 0 4px;">
-    <img src="./img/web.png">
-  </div>
-  <div style="flex:27%;padding: 0 4px;"> 
-    <img src = "./img/mobile.jpeg">
-  </div>
+
+<div>
+  <img width="600px" src="./img/web.png">
+  <img width="200px" src = "./img/mobile.jpeg">
 </div>
+
 
 ## Dependências
 
